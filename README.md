@@ -17,13 +17,13 @@ Follow these steps to get started with the project:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/voice-cloning-model.git
+   git clone https://github.com/heathbrew/Voice-Cloning-Model
    ```
 
 2. Install the required dependencies. You can use the following command to install them:
 
    ```bash
-   pip install torch
+   ./VoiceCloning2.ps1
    ```
 
 3. Download your dataset and place it in the appropriate directory.
