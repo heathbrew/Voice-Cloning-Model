@@ -86,9 +86,4 @@ I encourage you to contribute to this project and help it reach its full potenti
 
 If you have any questions, suggestions, or would like to collaborate on this project, please feel free to reach out to me:
 
-- [Ayushman Pranav]
-- [ayushman.home3@gmail.com]
-
-## Acknowledgments
-
-I would like to thank the PyTorch community and contributors for their support and the developers of [mention any specific libraries or tools used in your project] for their valuable contributions.
+- [Linkedin](https://www.linkedin.com/in/ayushman-pranav-20b49ba3/)
