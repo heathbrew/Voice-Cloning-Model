@@ -8,6 +8,7 @@ Welcome to the Voice Cloning Model project! This repository contains code and re
 
 - Voice cloning using PyTorch.
 - Custom dataset handling.
+- put your mp3 recordings in recordings folder
 - Training script with batch processing.
 
 ## Getting Started
