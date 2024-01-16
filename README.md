@@ -78,9 +78,6 @@ I encourage you to contribute to this project and help it reach its full potenti
 
 5. Create a pull request to merge your changes into the main branch of this repository.
 
-## License
-
-[Specify the license under which your code is released.]
 
 ## Contact
 
